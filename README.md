@@ -1,4 +1,4 @@
-# StyleSmuggler Scanner
+# Magento StyleSmuggler
 
 **CVE-2026-75650 Exploitation Framework - Standalone Edition**
 
